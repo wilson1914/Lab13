@@ -1,5 +1,7 @@
 div {
-	font-family: 'Delius Unicase', cursive;
+	font-family: 'Macondo', cursive;
+	color: #008744;
+	font-weight: bold;
 	text-align: center;
 	width: 60%;
 	margin: auto;
@@ -41,86 +43,85 @@ body {
 }
 
 h1 {
-	/*background-color: mistyrose;*/
 	margin: 0px;
 }
 
 .one {
-	color: hotpink;
-	background-color: #e1fdd7;
+	color: darkblue;
+	background-color: darkred;
 	text-decoration: underline;
-	font-family: 'Ravi Prakash', cursive;
+	font-family: 'Cinzel', cursive;
 
 }
 
 .two {
-	background-color: #473198;
+	background-color: green;
 	color: white;
 	text-decoration: overline;
-	font-family: 'Delius Unicase', cursive;
+	font-family: 'Rubic', cursive;
 
 }
 
 .three {
-	color: lightpink;
-	background-color: aquamarine;
-	text-decoration: line-through;
+	color: grey;
+	background-color: blue;
+	border: 3px 3px 3px 3px dashed blue;
 	font-family: 'Oswald', sans-serif;
 
 }
 
 .four {
-	color: mediumslateblue;
-	background-color: pink;
+	color: purple;
+	background-color: whitesmoke;
 	font-style: italic;
-	font-family: 'Bungee Inline', cursive;
+	font-family: 'Text Me One', cursive;
 
 }
 
 .five {
-	color: mediumvioletred;
-	background-color: lightcyan;
+	color: white;
+	background-color: green;
 	font-weight: bold;
-	font-family: 'Ranga', cursive;
+	font-family: 'Spirax', cursive;
 
 }
 
 .six {
-	color: teal;
-	background-color: lightpink;
-	font-family: 'Indie Flower', cursive;
+	color: blue;
+	background-color: white;
+	font-family: 'Cookie', cursive;
 
 
 }
 
 .seven {
-	color: violet;
-	background-color: lavender;
-	font-family: 'Lobster', cursive;
+	color: red;
+	background-color: black;
+	font-family: 'Space Mono', cursive;
 
 }
 
 .eight {
-	color: yellowgreen;
-	background-color: #daffed;
-	text-decoration: underline;
-	font-family: 'Gloria Hallelujah', cursive;
+	color: black;
+	background-color: red;
+	border: 3px 3px 3px 3px solid red;
+	font-family: 'Coustard', cursive;
 
 }
 
 .nine {
-	color: orchid;
-	background-color: mistyrose;
+	color: blue;
+	background-color: whitesmoke;
 	text-decoration: overline;
-	font-family: 'Pacifico', cursive;
+	font-family: 'Codystar', cursive;
 
 }
 
 .ten {
-	color: salmon;
-	background-color: #9bf3f0;
+	color: yellow;
+	background-color: whitesmoke;
 	text-decoration: line-through;
-	font-family: 'Shadows Into Light', cursive;
+	font-family: 'Macondo', cursive;
 
 
 }
